@@ -1,4 +1,4 @@
-# awesome-awesomes
+# awesome-awesome
 
 Best 🔥 🔥 🔥 collections of awesome projects for cool CS man.
 
